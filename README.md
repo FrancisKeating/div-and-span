@@ -1,9 +1,9 @@
 # div-and-span
 
-<Div and Span - prior to HTML 5 they were used in formatting documents, you will find this  in HTML that was created before HTML 5 which is a lot.>
+<<Div and Span> - prior to HTML 5 they were used in formatting documents, you will find this  in HTML that was created before HTML 5 which is a lot.>>
 
 
-CSS file link - <link rel="stylesheet" href="formatting.css">
+<CSS file link - <link rel="stylesheet" href="formatting.css">>
 
 <div></div> tag used to section out documents, each div had a different attribute id to distinguish them from each other.  The id had to be unique.
 
